@@ -9,7 +9,13 @@ This project aims to analyze the **geographic patterns of Airbnb listings in Ban
 
 - **Map Geographical Distribution**: Pinpoint where Airbnb listings are concentrated and characterize those high-density areas.
 - **Analyze Location-Based Features**: Understand how property attributes (like room type and price) are distributed across different locations.  
-- **Identify Performance Relationships**: Uncover connections between property type, location, and key business performance metrics such as pricing and review counts. 
+- **Identify Performance Relationships**: Uncover connections between property type, location, and key business performance metrics such as pricing and review counts.
+
+---
+
+**View the Full Interactive Notebook (with Maps):**  
+[Open on nbviewer](https://nbviewer.org/github/rahmaskp/From-Maps-to-Metrics-Analyzing-Spatial-Trends-of-Airbnb-Listings-in-Bangkok/blob/main/notebook/From%20Maps%20to%20Metrics-Analyzing%20Spatial%20Trends%20of%20Airbnb%20Listings%20in%20Bangkok.ipynb)
+
 
 ---
 
