@@ -81,7 +81,8 @@ This project uses two primary datasets:
 │
 ├── data
 │   ├── raw/                 <- Original dataset (Airbnb Bangkok listings)
-│   └── cleaned/             <- Cleaned dataset after preprocessing steps
+│   ├── cleaned/             <- Cleaned dataset after preprocessing steps
+│   └── geojson/             <- Geojson Bangkok district boundaries
 │
 ├── notebook/
 │ └── From Maps to Metrics-Analyzing Spatial Trends of Airbnb Listings in Bangkok.ipynb <- Main notebook containing all analysis, visualizations, and insights
