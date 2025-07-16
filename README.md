@@ -94,8 +94,7 @@ This project uses two primary datasets:
 │ └── From Maps to Metrics-Analyzing Spatial Trends of Airbnb Listings in Bangkok.ipynb <- Main notebook containing all analysis, visualizations, and insights
 │
 ├── reports
-│   ├── slide/               <- Presentation slides summarizing key findings
-│   └── figures/             <- Saved figures used for reporting
+│   └── slide/               <- Presentation slides summarizing key findings
 │
 ├── docs/
 │   └── data_dictionary.md   <- Description of all dataset features
