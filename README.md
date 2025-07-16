@@ -67,8 +67,7 @@ This project uses two primary datasets:
 │   └── data_dictionary.md   <- Description of all dataset features
 │
 ├── requirements.txt         <- Python dependencies for running the project
-│
-└── src/                     <- Utility scripts and functions (e.g., cleaning functions, loaders)
+
 ```
 
 ---
