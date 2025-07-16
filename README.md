@@ -94,7 +94,7 @@ This project uses two primary datasets:
 ├── docs/
 │   └── data_dictionary.md   <- Description of all dataset features
 │
-├── requirements.txt         <- Python dependencies for running the project
+└──  requirements.txt         <- Python dependencies for running the project
 
 ```
 
