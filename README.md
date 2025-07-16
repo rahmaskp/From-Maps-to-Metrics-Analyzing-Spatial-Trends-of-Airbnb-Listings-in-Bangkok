@@ -57,7 +57,7 @@ This project uses two primary datasets:
 │   └── cleaned/             <- Cleaned dataset after preprocessing steps
 │
 ├── notebook/
-│ └── Capstone_Project_Module_2_Airbnb_Listings_Bangkok.ipynb <- Main notebook containing all analysis, visualizations, and insights
+│ └── From Maps to Metrics-Analyzing Spatial Trends of Airbnb Listings in Bangkok.ipynb <- Main notebook containing all analysis, visualizations, and insights
 │
 ├── reports
 │   ├── slide/               <- Presentation slides summarizing key findings
